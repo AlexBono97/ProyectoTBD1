@@ -1,0 +1,15 @@
+C:\Users\AlexanderB\Desktop\App TBD1\AppTeoriaBD1\AppTeoriaBD1\obj\Debug\AppTeoriaBD1.csprojResolveAssemblyReference.cache
+C:\Users\AlexanderB\Desktop\App TBD1\AppTeoriaBD1\AppTeoriaBD1\obj\Debug\AppTeoriaBD1.Properties.Resources.resources
+C:\Users\AlexanderB\Desktop\App TBD1\AppTeoriaBD1\AppTeoriaBD1\obj\Debug\AppTeoriaBD1.csproj.GenerateResource.Cache
+C:\Users\AlexanderB\Desktop\App TBD1\AppTeoriaBD1\AppTeoriaBD1\obj\Debug\AppTeoriaBD1.csproj.CoreCompileInputs.cache
+C:\Users\AlexanderB\Desktop\App TBD1\AppTeoriaBD1\AppTeoriaBD1\bin\Debug\AppTeoriaBD1.exe.config
+C:\Users\AlexanderB\Desktop\App TBD1\AppTeoriaBD1\AppTeoriaBD1\bin\Debug\AppTeoriaBD1.exe
+C:\Users\AlexanderB\Desktop\App TBD1\AppTeoriaBD1\AppTeoriaBD1\bin\Debug\AppTeoriaBD1.pdb
+C:\Users\AlexanderB\Desktop\App TBD1\AppTeoriaBD1\AppTeoriaBD1\obj\Debug\AppTeoriaBD1.exe
+C:\Users\AlexanderB\Desktop\App TBD1\AppTeoriaBD1\AppTeoriaBD1\obj\Debug\AppTeoriaBD1.pdb
+C:\Users\AlexanderB\Desktop\App TBD1\AppTeoriaBD1\AppTeoriaBD1\obj\Debug\AppTeoriaBD1.Inicio.resources
+C:\Users\AlexanderB\Desktop\App TBD1\AppTeoriaBD1\AppTeoriaBD1\obj\Debug\AppTeoriaBD1.Administracion.resources
+C:\Users\AlexanderB\Desktop\App TBD1\AppTeoriaBD1\AppTeoriaBD1\obj\Debug\AppTeoriaBD1.Usuario.resources
+C:\Users\AlexanderB\Desktop\App TBD1\AppTeoriaBD1\AppTeoriaBD1\obj\Debug\AppTeoriaBD1.AgregarAfiliado.resources
+C:\Users\AlexanderB\Desktop\App TBD1\AppTeoriaBD1\AppTeoriaBD1\obj\Debug\AppTeoriaBD1.Eliminar.resources
+C:\Users\AlexanderB\Desktop\App TBD1\AppTeoriaBD1\AppTeoriaBD1\obj\Debug\AppTeoriaBD1.Prestamo.resources
